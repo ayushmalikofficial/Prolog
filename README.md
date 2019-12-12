@@ -1,2 +1,2 @@
 # Prolog
-Prolog programs for problem solving using the concept of Recursion.
+Prolog programs for problem solving using Recursion.
